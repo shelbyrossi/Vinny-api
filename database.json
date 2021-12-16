@@ -1,0 +1,523 @@
+{
+    "bookings": [
+      {
+        "name": "Shelby Rossi",
+        "attendance": 1,
+        "event": false,
+        "address": "13 East Main Street",
+        "email": "rossi.shelby@gmail.com",
+        "userId": 1,
+        "date": "2021-12-23",
+        "id": 1
+      },
+      {
+        "name": "Shelby Rossi",
+        "attendance": 50,
+        "event": true,
+        "address": "15016 YUCCA TRAIL",
+        "email": "rossi.shelby@gmail.com",
+        "userId": 1,
+        "date": "2021-12-30",
+        "id": 2
+      },
+      {
+        "name": "Haley Wilson",
+        "attendance": 150,
+        "event": true,
+        "address": "34 South Street ",
+        "email": "wilson.haley@gmail.com",
+        "userId": 5,
+        "date": "2021-12-22",
+        "id": 3
+      },
+      {
+        "name": "Monica Kay ",
+        "attendance": 1,
+        "event": false,
+        "address": "12 Fatherland Way ",
+        "email": "Kay.Monica@gmail.com",
+        "userId": 3,
+        "date": "2021-12-31",
+        "id": 4
+      },
+      {
+        "name": "Monica Kay ",
+        "attendance": 300,
+        "event": true,
+        "address": "295 S WASHINGTON ST",
+        "email": "Kay.Monica@gmail.com",
+        "userId": 3,
+        "date": "2022-01-31",
+        "id": 5
+      }
+    ],
+    "works": [
+      {
+        "title": "Heart Face ",
+        "userId": 1,
+        "imageUrl": "https://res.cloudinary.com/dyjahmaif/image/upload/v1639419724/IMG_1522_ertalh.jpg",
+        "description": "Digital, Portrait ",
+        "id": 3
+      },
+      {
+        "title": "Self Portrait ",
+        "userId": 3,
+        "imageUrl": "https://carbonmade-media.accelerator.net/31225355;1526x2048.jpeg?auto=webp",
+        "description": "Oil on Board ",
+        "id": 2
+      },
+      {
+        "title": "\"Wazzzuuupppp\" ",
+        "userId": 5,
+        "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8fcf7bd5-7ea9-45ab-ae09-83c6510d31f5/d70x06z-c13639e4-b9d0-4975-b7bb-931baa51d52a.png/v1/fill/w_400,h_534,q_80,strp/wazzzzuuuuup_by_esohes_d70x06z-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM0IiwicGF0aCI6IlwvZlwvOGZjZjdiZDUtN2VhOS00NWFiLWFlMDktODNjNjUxMGQzMWY1XC9kNzB4MDZ6LWMxMzYzOWU0LWI5ZDAtNDk3NS1iN2JiLTkzMWJhYTUxZDUyYS5wbmciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vSIHZ3iiAbnUMFZ0OmE16J4FUI7GuD29PUdrWTl0YpI",
+        "description": "Digital Art, Portrait ",
+        "id": 1
+      },
+      {
+        "title": "\"I Can't Grow Anything\" ",
+        "userId": 6,
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/587bdd04e58c62d26c207224/1633409486486-DXIUD1NXQV8QFGMK9CA4/Illustrations.002.jpeg?format=1500w",
+        "description": "Still Life - Digital Art ",
+        "id": 4
+      },
+      {
+        "title": "\"Beans, the Cat\" ",
+        "userId": 1,
+        "imageUrl": "https://res.cloudinary.com/dyjahmaif/image/upload/v1639419723/IMG_1513_2_rwntn7.jpg",
+        "description": "Cat Portrait, Digital ",
+        "id": 5
+      },
+      {
+        "title": "\"Portrait of Dog\" ",
+        "userId": 2,
+        "imageUrl": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fscontent-atl3-1.xx.fbcdn.net%2Fv%2Ft31.18172-8%2F18320546_10102972879402706_5098365127666463445_o.jpg%3F_nc_cat%3D100%26ccb%3D1-5%26_nc_sid%3Da9b1d2%26_nc_ohc%3Di0FR5sxDZMYAX9GR2PG%26_nc_ht%3Dscontent-atl3-1.xx%26oh%3D170972b09b911d339d035832b20f2544%26oe%3D61D7B326",
+        "description": "Portrait of Dog ",
+        "id": 6
+      },
+      {
+        "title": "Danny Devito Portrait ",
+        "userId": 1,
+        "imageUrl": "https://res.cloudinary.com/dyjahmaif/image/upload/v1639420386/IMG_6557_qacdgn.jpg",
+        "description": "Digital , Portrait ",
+        "id": 7
+      },
+      {
+        "title": "\"A Moment of Peace\" ",
+        "userId": 3,
+        "imageUrl": "https://carbonmade-media.accelerator.net/31229904;960x1476.jpeg",
+        "description": "Still Life ",
+        "id": 8
+      },
+      {
+        "title": "\"Tea Cup Stack\" ",
+        "userId": 1,
+        "imageUrl": "https://res.cloudinary.com/dyjahmaif/image/upload/v1639419723/IMG_1521_ostdzc.jpg",
+        "description": "Still Life, Oil on Canvas ",
+        "id": 9
+      },
+      {
+        "title": "Beagles ",
+        "userId": 2,
+        "imageUrl": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fscontent-atl3-1.xx.fbcdn.net%2Fv%2Ft1.18169-9%2F17796767_10102897351531166_2231713475875623350_n.jpg%3F_nc_cat%3D110%26ccb%3D1-5%26_nc_sid%3Da9b1d2%26_nc_ohc%3DGqO4pEB88k8AX-c_r6R%26_nc_ht%3Dscontent-atl3-1.xx%26oh%3D9a313c8776895f97d79e899f26d54489%26oe%3D61D97F91",
+        "description": "Beagle Drawing , Portrait ",
+        "id": 10
+      }
+    ],
+    "materials": [
+      {
+        "id": 1,
+        "type": "Stylus Pen",
+        "price": 30,
+        "materialCategoryId": 1
+      },
+      {
+        "id": 2,
+        "type": "Titanium White Oil Paint",
+        "price": 8,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 3,
+        "type": "Ivory Black Oil Paint",
+        "price": 8,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 4,
+        "type": "Cadmium Red Oil Paint",
+        "price": 8,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 5,
+        "type": "Crimson Oil Paint",
+        "price": 8,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 6,
+        "type": "Ultramarine Blue Oil Paint",
+        "price": 8,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 7,
+        "type": "Cadium Yellow Oil Paint",
+        "price": 8,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 8,
+        "type": "Oil Paint Brush Kit",
+        "price": 30,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 9,
+        "type": "Mineral Spirits Bottle",
+        "price": 10,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 10,
+        "type": "Linseed Oil",
+        "price": 8,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 11,
+        "type": "Palette",
+        "price": 7,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 12,
+        "type": "Painting Rags",
+        "price": 5,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 13,
+        "type": "WaterColor Starter Paint Color Kit - Red, Blue, Yellow, Burnt Sienna, Green, White ",
+        "price": 25,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 14,
+        "type": " Strathmore Watercolor ColdPress Paper Pad 9 x 12",
+        "price": 15,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 15,
+        "type": "Canson WaterColor ColdPress PaperPad 5.5 x 8.5 ",
+        "price": 5,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 16,
+        "type": "WaterColor Pallate ",
+        "price": 6,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 17,
+        "type": "WaterColor Pencils Pack ",
+        "price": 12,
+        "materialCategoryId": 2
+      },
+      {
+        "id": 18,
+        "type": "Pencil Sharpener",
+        "price": 3,
+        "materialCategoryId": 1
+      },
+      {
+        "id": 19,
+        "type": "Blending Stump/Tortillion",
+        "price": 8,
+        "materialCategoryId": 1
+      },
+      {
+        "id": 20,
+        "type": "Drawing Pen Pack",
+        "price": 25,
+        "materialCategoryId": 1
+      },
+      {
+        "id": 21,
+        "type": "Charcoal Pack",
+        "price": 6,
+        "materialCategoryId": 1
+      },
+      {
+        "id": 22,
+        "type": "Eraser Variety Pack",
+        "price": 4,
+        "materialCategoryId": 1
+      },
+      {
+        "id": 23,
+        "type": "Pentalic Sketch Book",
+        "price": 12,
+        "materialCategoryId": 1
+      },
+      {
+        "id": 24,
+        "type": "Pencil Starter Pack 2H, HB, 2B, 4B",
+        "price": 12,
+        "materialCategoryId": 1
+      },
+      {
+        "id": 25,
+        "type": "Bristol Paper Pack",
+        "price": 25,
+        "materialCategoryId": 1
+      },
+      {
+        "id": 26,
+        "type": "Bottled Ink, Black",
+        "price": 10,
+        "materialCategoryId": 1
+      },
+      {
+        "id": 27,
+        "type": "One Pound Sculpting Wax",
+        "price": 20,
+        "materialCategoryId": 3
+      },
+      {
+        "id": 28,
+        "type": "5 foot Copper Wire",
+        "price": 7,
+        "materialCategoryId": 3
+      },
+      {
+        "id": 29,
+        "type": "Stainless Steel Modeling Tools (2)",
+        "price": 20,
+        "materialCategoryId": 3
+      },
+      {
+        "id": 30,
+        "type": "Figure Armature Template",
+        "price": 13,
+        "materialCategoryId": 3
+      },
+      {
+        "id": 31,
+        "type": "Knife Tool Kit",
+        "price": 25,
+        "materialCategoryId": 3
+      },
+      {
+        "id": 32,
+        "type": "Sculpting for Dummies Book ",
+        "price": 15,
+        "materialCategoryId": 3
+      },
+      {
+        "id": 33,
+        "type": "Acrylic Roller ",
+        "price": 6,
+        "materialCategoryId": 3
+      },
+      {
+        "id": 34,
+        "type": "Knitting Needles Assorted Pack ",
+        "price": 25,
+        "materialCategoryId": 4
+      },
+      {
+        "id": 35,
+        "type": "White Yarn ",
+        "price": 12,
+        "materialCategoryId": 4
+      },
+      {
+        "type": "Black Yarn ",
+        "id": 36,
+        "price": 12,
+        "materialCategoryId": 4
+      },
+      {
+        "id": 37,
+        "type": "Yello Yarn ",
+        "price": 12,
+        "materialCategoryId": 4
+      },
+      {
+        "id": 38,
+        "type": "Red Yarn ",
+        "price": 12,
+        "materialCategoryId": 4
+      },
+      {
+        "id": 39,
+        "type": "Green Yarn ",
+        "price": 12,
+        "materialCategoryId": 4
+      },
+      {
+        "id": 40,
+        "type": "Measuring Tape ",
+        "price": 15,
+        "materialCategoryId": 4
+      },
+      {
+        "id": 41,
+        "type": "Scissors ",
+        "price": 18,
+        "materialCategoryId": 4
+      }
+    ],
+    "materialCategory": [
+      {
+        "id": 1,
+        "category": "sketching"
+      },
+      {
+        "id": 2,
+        "category": "painting"
+      },
+      {
+        "id": 3,
+        "category": "sculpting"
+      },
+      {
+        "id": 4,
+        "category": "knitting"
+      }
+    ],
+    "worksMaterials": [
+      {
+        "workId": 1,
+        "materialsId": 1,
+        "id": 1
+      },
+      {
+        "workId": 2,
+        "materialsId": 4,
+        "id": 2
+      },
+      {
+        "workId": 2,
+        "materialsId": 9,
+        "id": 2
+      },
+      {
+        "workId": 2,
+        "materialsId": 8,
+        "id": 2
+      },
+      {
+        "workId": 2,
+        "materialsId": 6,
+        "id": 2
+      },
+      {
+        "workId": 3,
+        "materialsId": 1,
+        "id": 3
+      },
+      {
+        "workId": 4,
+        "materialsId": 1,
+        "id": 4
+      },
+      {
+        "workId": 5,
+        "materialsId": 1,
+        "id": 5
+      },
+      {
+        "workId": 6,
+        "materialsId": 24,
+        "id": 6
+      },
+      {
+        "workId": 7,
+        "materialsId": 1,
+        "id": 7
+      },
+      {
+        "workId": 8,
+        "materialsId": 5,
+        "id": 8
+      },
+      {
+        "workId": 8,
+        "materialsId": 2,
+        "id": 8
+      },
+      {
+        "workId": 8,
+        "materialsId": 6,
+        "id": 8
+      },
+      {
+        "workId": 9,
+        "materialsId": 7,
+        "id": 9
+      },
+      {
+        "workId": 9,
+        "materialsId": 9,
+        "id": 9
+      },
+      {
+        "workId": 9,
+        "materialsId": 8,
+        "id": 9
+      },
+      {
+        "materialsId": 22,
+        "workId": 10,
+        "id": 10
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "Shelby Rossi",
+        "email": "rossi.shelby@gmail.com"
+      },
+      {
+        "id": 2,
+        "name": "Leah Daniel",
+        "email": "daniel.leah@gmail.com"
+      },
+      {
+        "id": 3,
+        "name": "Monica Kay Provence",
+        "email": "provence.monica@gmail.com"
+      },
+      {
+        "id": 4,
+        "name": "Andy Eilers",
+        "email": "eilers.andy@gmail.com"
+      },
+      {
+        "id": 5,
+        "name": "Haley Wilson",
+        "email": "wilson.haley@gmail.com"
+      },
+      {
+        "id": 6,
+        "name": "Sarah Lockett",
+        "email": "sarah.lockett@gmail.com"
+      },
+      {
+        "name": "Jane Doe ",
+        "address": "10 Main Street",
+        "email": "Doe.Jane@gmail.com",
+        "id": 7
+      },
+      {
+        "name": "Sherry Best",
+        "address": "14 West End ",
+        "email": "best.sherry@gmail.com",
+        "id": 8
+      }
+    ]
+  }
